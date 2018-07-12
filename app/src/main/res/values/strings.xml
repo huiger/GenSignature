@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GenSignature</string>
+    <string name="info">此工具仅用于获取安装到手机的第三方应用签名，供开发者填写到官网进行调试。第三方应用签名正确性需有开发者自行保证。</string>
+</resources>
